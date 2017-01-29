@@ -9,7 +9,7 @@
 - Git/Github
 
 ###Todo:
-- Add Bootstrap
+~~- Add Bootstrap~~
 - Figure out how to GET more than 50 releases at a time (GET all of the collection to randomize)
 - Integrate Oauth per Discogs requirements
 - Allow user to login
