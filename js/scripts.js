@@ -1,8 +1,7 @@
 $.getJSON('https://api.discogs.com/users/seanfour20/collection').done(function(data) {
-	console.log(data.releases);
+	// console.log(data.releases);
 	window.albumInfo = data.releases;
 });
-
 
 function pickRandomAlbum() {
 
